@@ -1,4 +1,4 @@
-#### create empty project
+- create empty project
 - open terminal from intelliJ and hit command `git init`
 - after that do `git status` to double check
 - if you want change branch name from master to main then use below command
@@ -6,6 +6,7 @@
 - add .gitignore by command `touch .gitignore`
 
 - `git add .`
+- copy contents from https://raw.githubusercontent.com/rdankhara/git-demo/main/.gitignore 
 - `git commit -m 'initial commit'`
 
 - create git repository on git hub
